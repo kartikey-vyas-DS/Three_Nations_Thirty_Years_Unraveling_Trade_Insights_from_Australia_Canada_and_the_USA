@@ -13,15 +13,6 @@ This project dives deep into the trade dynamics of Australia, Canada, and the US
 - **Multi-Country Analysis**: Compare and contrast trade patterns across Australia, Canada, and the USA
 - **Commodity Focus**: Explore trends in various commodity categories, with a special emphasis on agricultural products
 
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/yourusername/trade-analysis-project.git
-cd trade-analysis-project
-pip install -r requirements.txt
-jupyter notebook Trade_Analysis.ipynb
-```
-
 ## 📈 Key Insights
 
 1. **Agricultural Dominance**: 🌾 Wheat and maize lead as top traded commodities
