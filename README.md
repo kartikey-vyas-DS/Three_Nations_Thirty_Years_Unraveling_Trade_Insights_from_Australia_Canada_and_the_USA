@@ -66,5 +66,5 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 ---
 
 <p align="center">
-  Made with ❤️ by Kvs
+  Made with passion by Kvs
 </p>
